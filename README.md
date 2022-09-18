@@ -9,3 +9,8 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 <br>
 
 The classification is done with the eigen faces from sklearn dataset and svm.
+
+<br>
+
+Link - https://github.com/Yogananth-r/Face-Recognition-Using-SVMs-and-Eigen-Faces/blob/main/Face_Recognition_Using_SVMs_and_Eigen_Faces.ipynb
+
