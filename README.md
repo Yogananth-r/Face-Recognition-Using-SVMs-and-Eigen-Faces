@@ -8,7 +8,7 @@ SVM chooses the extreme points/vectors that help in creating the hyperplane. The
 
 <br>
 
-The classification is done with the eigen faces from sklearn dataset and svm.
+The classification is done with the eigen faces from sklearn dataset and *svm*.
 
 <br>
 
